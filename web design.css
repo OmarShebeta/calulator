@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(34 38 45);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Noto Sans";
+}
+h2 {
+  border: 5px black;
+  color: white;
+  text-align: center;
+  font-family: "Noto Sans";
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: "Noto Sans";
+}
+form {
+  color: white;
+  text-align: center;
+  font-family: "Noto Sans";
+}
+button {
+  color: white;
+  font-family: "Noto Sans";
+  background-color: #555758;
+}
+h3 {
+  color: chartreuse;
+  text-align: center;
+  font-family: "Noto Sans";
+}
+const {
+  color: white;
+  text-align: center;
+  font-family: "Noto Sans";
+}
